@@ -1,0 +1,24 @@
+
+
+-------------------------------------
+		sDrone
+-------------------------------------
+
+1. Assemble the frame
+2. Adding the motors, ESC (electric speed controller)
+3. Soldering power lead to the ESC
+4. Connecting ESCs with motors
+5. Calibrating throttle range with transmitter 3rd channnel
+6. Adding the main FCU (flight controller unit)
+7. Connecting radio receiver and ESC signal lead to the FCU
+8. Connecting the GPS module
+9. Uploading the firmware to the FCU
+10. Configuring it on user's choice
+11. Adding propeller
+12. Adding battery
+13. PID tuning
+14. Ready for test run
+
+-------------------------------------
+		sDrone
+-------------------------------------
